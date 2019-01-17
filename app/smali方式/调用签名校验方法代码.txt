@@ -1,0 +1,4 @@
+
+    move-object/from16 v0, p0
+
+    invoke-static {v0}, Lcom.zhanhong.apkextractor.MainActivity;->QMYZ(Landroid/content/Context;)I
